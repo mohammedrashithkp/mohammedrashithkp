@@ -22,7 +22,7 @@
 ---
 
 ### 🛠️ Technologies & Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; padding: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash" width="40" height="40"/>
@@ -50,8 +50,10 @@
 </div>
 
 ---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrashithkp&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrashithkp&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
+
