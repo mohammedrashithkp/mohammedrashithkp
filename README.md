@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrashithkp&show_icons=true&locale=en&theme=default&hide_title=true&hide_rank=true&card_width=200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrashithkp&show_icons=true&locale=en&theme=default&hide_title=false&hide_rank=false&card_width=200" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrashithkp&layout=compact&card_width=200&langs_count=6" alt="Top Languages" />
 </p>
 
