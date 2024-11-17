@@ -1,17 +1,32 @@
 <h1 align="center">Hi there, I'm Mohammed Rashith KP 👋</h1>
-<h3 align="center">Python Programmer | Linux Expert | Mechanical Engineering Student</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohammed-rashith-kp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Rashith%20KP-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.leetcode.com/mohammed_rashith_kp" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Mohammed_Rashith_KP-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-%230077B5.svg?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Arduino-%23CCCCCC.svg?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Caddy-%23006BB6.svg?style=flat&logo=caddy&logoColor=white" alt="Caddy"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/MATLAB-%23FF8000.svg?style=flat&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Hugo-%23FF4088.svg?style=flat&logo=hugo&logoColor=white" alt="Hugo"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=flat&logo=qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</div>
 
-
----
 
 ### 👨‍💻 About Me
 - 🎓 Mechanical Engineering Undergraduate at **NIT Calicut**
@@ -19,42 +34,20 @@
 - 🔭 Currently working on a **[Space Invaders Game](https://github.com/mohammedrashithkp/SpaceInvaders.git)**
 - 🌱 Learning **Project Management Specialization by Google**
 - 💬 Ask me about **Python, Linux, ROS2 (Python)**
+ ### 🌐 Connect with Me  
 
----
-
-### 🛠️ Technologies & Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; padding: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="50" height="40"/>
-  <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/caddy.svg" alt="Caddy" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos-hugo.svg" alt="Hugo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+<div align="center">
+  <a href="https://linkedin.com/in/mohammed-rashith-kp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Rashith%20KP-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/mohammed_rashith_kp" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Mohammed_Rashith_KP-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
 </div>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrashithkp&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrashithkp&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrashithkp&show_icons=true&locale=en&theme=default&hide_title=true&hide_rank=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrashithkp&layout=compact&card_width=400&langs_count=6" alt="Top Languages" />
 </p>
 
