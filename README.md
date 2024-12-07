@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Mohammed Rashith KP 👋 </h1>
 
+<!-- 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-%230077B5.svg?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Arduino-%23CCCCCC.svg?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
@@ -27,14 +28,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </div>
 
-
-### 👨‍💻 About Me
-- 🎓 Mechanical Engineering Undergraduate at **NIT Calicut**
-- 🤖 Over 1 year of experience in leading and collaborating with teams in the **Robotics Interest Group, NITC**
-- 🔭 Currently working on a **[Space Invaders Game](https://github.com/mohammedrashithkp/SpaceInvaders.git)**
-- 🌱 Learning **Project Management Specialization by Google**
-- 💬 Ask me about **Python, Linux, ROS2 (Python)**
- ### 🌐 Connect with Me  
+-->
 
 <div align="center">
   <a href="https://linkedin.com/in/mohammed-rashith-kp" target="_blank">
@@ -45,7 +39,12 @@
   </a>
 </div>
 
-### 📊 GitHub Stats
+### 📖 About Me
+- 🎓 Mechanical Engineering Undergraduate at **NIT Calicut**
+- 🤖 Over 1 year of experience in leading and collaborating with teams in the **Robotics Interest Group, NITC**
+- 🔭 Currently working on a **[Space Invaders Game](https://github.com/mohammedrashithkp/SpaceInvaders.git)**
+- 🌱 Learning **Project Management Specialization by Google**
+- 💬 Ask me about **Python, Linux, ROS2 (Python)**
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrashithkp&show_icons=true&locale=en&theme=default&hide_title=true&hide_rank=false&card_width=200" alt="GitHub Stats" />
