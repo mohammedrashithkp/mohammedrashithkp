@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohammed Rashith KP 👋</h1>
+<h1 align="center">Hi there, I'm Mohammed Rashith KP 👋 </h1>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-%230077B5.svg?style=flat&logo=python&logoColor=white" alt="Python"/>
