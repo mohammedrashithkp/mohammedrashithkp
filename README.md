@@ -44,7 +44,7 @@
 - 🤖 Over 1 year of experience in leading and collaborating with teams in the **Robotics Interest Group, NITC**
 - 🔭 Currently working on a **[Space Invaders Game](https://github.com/mohammedrashithkp/SpaceInvaders.git)**
 - 🌱 Learning **Project Management Specialization by Google**
-- 💬 Ask me about **Python, Linux, ROS2 (Python)**
+- 💬 Find Blog regarding **Python, Linux, ROS2 (Python)** [here](https://mohammedrashithkp.github.io)
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrashithkp&show_icons=true&locale=en&theme=default&hide_title=true&hide_rank=false&card_width=200" alt="GitHub Stats" />
