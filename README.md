@@ -42,7 +42,7 @@
 ### 📖 About Me
 - 🎓 Mechanical Engineering Undergraduate at **NIT Calicut**
 - 🤖 Over 1 year of experience in leading and collaborating with teams in the **Robotics Interest Group, NITC**
-- 🔭 Currently working on a **[Space Invaders Game](https://github.com/mohammedrashithkp/SpaceInvaders.git)**
+- 🔭 Currently working on a **Multi-Object-Grasping Gripper Project**
 - 🌱 Learning **Project Management Specialization by Google**
 - 💬 Find Blog regarding **Python, Linux, ROS2 (Python)** [here](https://mohammedrashithkp.github.io)
 
